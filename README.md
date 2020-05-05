@@ -1,8 +1,9 @@
 # Elastic on Docker (v7)
 
-This is a small example taken from [this](https://github.com/olivere/elastic-with-docker), 
-which shows how to use [Elastic](https://github.com/olivere/elastic-with-docker) for 
+This is a small example shows how to use [Elastic](https://github.com/olivere/elastic-with-docker) for 
 Elasticsearch 7.x with [Docker](https://docs.docker.com/) and [Docker Compose](https://docs.docker.com/compose/).
+
+It is inspired by Oliver Eilhard's [elastic-with-docker](https://github.com/olivere/elastic-with-docker) which shows how to do it in Elasticsearch 6.x. 
 
 The example is for running Elasticsearch and a test application inside containers with Docker Compose.
 
